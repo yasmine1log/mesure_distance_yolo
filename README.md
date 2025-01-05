@@ -1,4 +1,4 @@
-# YOLO Distance Calculation
+# YOLO-Based Distance Calculation Between Two Objects
 
 This project uses YOLOv8 for object detection and integrates a distance calculation module for processing video frames. The output is saved as a processed video showing the detected objects and their calculated distances.
 
